@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Infrastructure+Specialist;Routing,+Switching,+and+Virtualization;Bridging+Hardware+and+Software&font=Fira+Code&color=%230077B5&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Infrastructure+Enthusiast;Routing,+Switching,+and+Virtualization;Bridging+Hardware+and+Software&font=Fira+Code&color=%230077B5&center=true&width=500&height=50">
 </p>
 
 ---
