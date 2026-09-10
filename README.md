@@ -8,14 +8,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 * 🎓 **Background:** Tech enthusiast specializing in network architecture, system administration, and embedded systems.
 * 🔭 **Current Focus:** Building robust enterprise networks, configuring MikroTik routers, and managing virtualized server infrastructure.
 * ⚡ **Fun Fact:** I love combining my networking knowledge with code (Python/C#) and microcontrollers (ESP32/Arduino) for smart automation!
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure
+##  Tech Stack & Infrastructure
 
 **Networking & Hardware**
 <p>
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mabini-AIO&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
