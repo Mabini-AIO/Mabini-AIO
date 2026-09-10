@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="display: inline-block; font-size: 1.8em;">🌐 Hi, I'm Mohammad Mahdi | Network Enthusiast</h1>
+    <h1 style="display: inline-block; font-size: 1.8em;"> Hi, I'm Mohammad Mahdi | Network Enthusiast</h1>
 </div>
 
 <p align="center">
@@ -9,9 +9,9 @@
 ---
 
 ##  About Me
-* 🎓 **Background:** Tech enthusiast specializing in network architecture, system administration, and embedded systems.
-* 🔭 **Current Focus:** Building robust enterprise networks, configuring MikroTik routers, and managing virtualized server infrastructure.
-* ⚡ **Fun Fact:** I love combining my networking knowledge with code (Python/C#) and microcontrollers (ESP32/Arduino) for smart automation!
+*  **Background:** Tech enthusiast specializing in network architecture, system administration, and embedded systems.
+*  **Current Focus:** Building robust enterprise networks, configuring MikroTik routers, and managing virtualized server infrastructure.
+*  **Fun Fact:** I love combining my networking knowledge with code (Python/C#) and microcontrollers (ESP32/Arduino) for smart automation!
 
 ---
 
